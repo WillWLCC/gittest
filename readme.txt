@@ -16,7 +16,14 @@ try again.
 >>>>>>> feature1
 =======
 add merge
+<<<<<<< HEAD
 >>>>>>> dev
 
 add dev1
+=======
+
+test stash
+>>>>>>> dev
+
+go on
 
