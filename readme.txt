@@ -27,3 +27,5 @@ test stash
 
 go on
 
+stash 2
+
