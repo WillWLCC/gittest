@@ -27,5 +27,9 @@ test stash
 
 go on
 
+<<<<<<< Updated upstream
 stash 2
+=======
+stash 1
+>>>>>>> Stashed changes
 
